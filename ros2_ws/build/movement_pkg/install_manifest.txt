@@ -1,0 +1,17 @@
+/home/user/ros2_ws/install/movement_pkg/lib/movement_pkg/movement_server_node
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg//launch/movement_server_launch_file.launch.py
+/home/user/ros2_ws/install/movement_pkg/share/ament_index/resource_index/package_run_dependencies/movement_pkg
+/home/user/ros2_ws/install/movement_pkg/share/ament_index/resource_index/parent_prefix_path/movement_pkg
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/path.sh
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/path.dsv
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.bash
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.sh
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.zsh
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.dsv
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/package.dsv
+/home/user/ros2_ws/install/movement_pkg/share/ament_index/resource_index/packages/movement_pkg
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/cmake/movement_pkgConfig.cmake
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/cmake/movement_pkgConfig-version.cmake
+/home/user/ros2_ws/install/movement_pkg/share/movement_pkg/package.xml

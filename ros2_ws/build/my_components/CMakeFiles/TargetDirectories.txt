@@ -1,0 +1,13 @@
+/home/user/ros2_ws/build/my_components/CMakeFiles/uninstall.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/my_components_uninstall.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/moverobot_component.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/manual_composition.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/server_component.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/client_component.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/test.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/edit_cache.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/rebuild_cache.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/list_install_components.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/install.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/install/local.dir
+/home/user/ros2_ws/build/my_components/CMakeFiles/install/strip.dir

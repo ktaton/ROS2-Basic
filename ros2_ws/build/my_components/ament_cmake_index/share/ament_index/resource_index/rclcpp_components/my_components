@@ -1,0 +1,3 @@
+my_components::MoveRobot;lib/libmoverobot_component.so
+my_components::Server;lib/libserver_component.so
+my_components::Client;lib/libclient_component.so
