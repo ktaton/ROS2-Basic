@@ -1,0 +1,38 @@
+[0.030s] Invoking command in '/home/user/ros2_ws/build/my_components': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_components -- -j8 -l8
+[0.093s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.336s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[0.392s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.396s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.406s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.424s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.451s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.565s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.568s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.823s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.090s] -- Found rclcpp_components: 16.0.1 (/opt/ros/humble/share/rclcpp_components/cmake)
+[1.191s] -- Found composition: 0.20.2 (/opt/ros/humble/share/composition/cmake)
+[1.192s] -- Found geometry_msgs: 4.2.2 (/opt/ros/humble/share/geometry_msgs/cmake)
+[1.269s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.387s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.387s] -- Configured cppcheck include dirs: /home/user/ros2_ws/src/my_components/include
+[1.387s] -- Configured cppcheck exclude dirs and/or files: 
+[1.387s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.389s] -- Added test 'lint_cmake' to check CMake code style
+[1.389s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.391s] -- Added test 'uncrustify' to check C / C++ code style
+[1.391s] -- Configured uncrustify additional arguments: 
+[1.392s] -- Added test 'xmllint' to check XML markup files
+[1.393s] -- Configuring done
+[1.415s] -- Generating done
+[1.418s] -- Build files have been written to: /home/user/ros2_ws/build/my_components
+[1.463s] [35m[1mConsolidate compiler generated dependencies of target moverobot_component[0m
+[1.500s] [ 50%] Built target moverobot_component
+[1.537s] [ 75%] [32mBuilding CXX object CMakeFiles/manual_composition.dir/src/manual_composition.cpp.o[0m
+[1.927s] [01m[K/home/user/ros2_ws/src/my_components/src/manual_composition.cpp:4:10:[m[K [01;31m[Kfatal error: [m[Kmy_components/readodom_component.hpp: No such file or directory
+[1.927s]     4 | #include [01;31m[K"my_components/readodom_component.hpp"[m[K
+[1.927s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.927s] compilation terminated.
+[1.931s] gmake[2]: *** [CMakeFiles/manual_composition.dir/build.make:76: CMakeFiles/manual_composition.dir/src/manual_composition.cpp.o] Error 1
+[1.932s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/manual_composition.dir/all] Error 2
+[1.932s] gmake: *** [Makefile:146: all] Error 2
+[1.936s] Invoked command in '/home/user/ros2_ws/build/my_components' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_components -- -j8 -l8

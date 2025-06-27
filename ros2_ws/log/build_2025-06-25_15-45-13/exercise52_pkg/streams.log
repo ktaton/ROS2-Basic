@@ -1,0 +1,69 @@
+[0.104s] Invoking command in '/home/user/ros2_ws/build/exercise52_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/exercise52_pkg -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/exercise52_pkg
+[0.450s] -- The C compiler identification is GNU 11.2.0
+[0.818s] -- The CXX compiler identification is GNU 11.2.0
+[0.838s] -- Detecting C compiler ABI info
+[1.317s] -- Detecting C compiler ABI info - done
+[1.332s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.332s] -- Detecting C compile features
+[1.333s] -- Detecting C compile features - done
+[1.342s] -- Detecting CXX compiler ABI info
+[1.741s] -- Detecting CXX compiler ABI info - done
+[1.807s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.808s] -- Detecting CXX compile features
+[1.810s] -- Detecting CXX compile features - done
+[1.820s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.923s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[3.560s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[4.008s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.025s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.113s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.205s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.327s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.823s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.832s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.430s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[5.630s] -- Found FastRTPS: /opt/ros/humble/include  
+[5.919s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.844s] -- Found geometry_msgs: 4.2.2 (/opt/ros/humble/share/geometry_msgs/cmake)
+[7.114s] -- Found std_srvs: 4.2.2 (/opt/ros/humble/share/std_srvs/cmake)
+[7.212s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.710s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.710s] -- Configured cppcheck include dirs: 
+[7.710s] -- Configured cppcheck exclude dirs and/or files: 
+[7.711s] -- Added test 'flake8' to check Python code syntax and style conventions
+[7.711s] -- Added test 'lint_cmake' to check CMake code style
+[7.712s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[7.716s] -- Added test 'uncrustify' to check C / C++ code style
+[7.716s] -- Configured uncrustify additional arguments: 
+[7.716s] -- Added test 'xmllint' to check XML markup files
+[7.719s] -- Configuring done
+[7.719s] -- Generating done
+[7.719s] -- Build files have been written to: /home/user/ros2_ws/build/exercise52_pkg
+[7.851s] Invoked command in '/home/user/ros2_ws/build/exercise52_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/exercise52_pkg -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/exercise52_pkg
+[7.906s] Invoking command in '/home/user/ros2_ws/build/exercise52_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/exercise52_pkg -- -j8 -l8
+[8.121s] [ 50%] [32mBuilding CXX object CMakeFiles/exercise52_node.dir/src/exercise52.cpp.o[0m
+[36.023s] [100%] [32m[1mLinking CXX executable exercise52_node[0m
+[37.235s] [100%] Built target exercise52_node
+[37.333s] Invoked command in '/home/user/ros2_ws/build/exercise52_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/exercise52_pkg -- -j8 -l8
+[37.727s] Invoking command in '/home/user/ros2_ws/build/exercise52_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/exercise52_pkg
+[37.816s] -- Install configuration: ""
+[37.816s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/lib/exercise52_pkg/exercise52_node
+[37.816s] -- Set runtime path of "/home/user/ros2_ws/install/exercise52_pkg/lib/exercise52_pkg/exercise52_node" to ""
+[37.817s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch
+[37.817s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch/exercise52_launch_file.launch.py
+[37.817s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/package_run_dependencies/exercise52_pkg
+[37.817s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/parent_prefix_path/exercise52_pkg
+[37.818s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.sh
+[37.818s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.dsv
+[37.825s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.sh
+[37.825s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.dsv
+[37.826s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.bash
+[37.827s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.sh
+[37.828s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.zsh
+[37.830s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.dsv
+[37.830s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.dsv
+[37.830s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/packages/exercise52_pkg
+[37.830s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig.cmake
+[37.831s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig-version.cmake
+[37.832s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.xml
+[37.909s] Invoked command in '/home/user/ros2_ws/build/exercise52_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/exercise52_pkg

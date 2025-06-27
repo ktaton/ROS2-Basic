@@ -1,0 +1,21 @@
+[35m[1mConsolidate compiler generated dependencies of target topics_quiz_node[0m
+[100%] Built target topics_quiz_node
+-- Install configuration: ""
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/lib/topics_quiz/topics_quiz_node
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz//launch
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz//launch/topics_quiz.launch.py
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/ament_index/resource_index/package_run_dependencies/topics_quiz
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/ament_index/resource_index/parent_prefix_path/topics_quiz
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/path.sh
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.bash
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.sh
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.zsh
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.dsv
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/package.dsv
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/ament_index/resource_index/packages/topics_quiz
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/cmake/topics_quizConfig.cmake
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/cmake/topics_quizConfig-version.cmake
+-- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/package.xml

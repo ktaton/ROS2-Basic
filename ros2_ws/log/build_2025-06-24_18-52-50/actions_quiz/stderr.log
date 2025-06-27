@@ -1,0 +1,8 @@
+[01m[K/home/user/ros2_ws/src/actions_quiz/src/distance_action_server.cpp:[m[K In member function '[01m[Krclcpp_action::GoalResponse DistanceActionServer::handle_goal(const GoalUUID&, std::shared_ptr<const actions_quiz_msg::action::Distance_Goal_<std::allocator<void> > >)[m[K':
+[01m[K/home/user/ros2_ws/src/actions_quiz/src/distance_action_server.cpp:58:40:[m[K [01;35m[Kwarning: [m[Kunused parameter '[01m[Kuuid[m[K' [[01;35m[K-Wunused-parameter[m[K]
+   58 |         [01;35m[Kconst rclcpp_action::GoalUUID &uuid[m[K,
+      |         [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/user/ros2_ws/src/actions_quiz/src/distance_action_server.cpp:[m[K In member function '[01m[Krclcpp_action::CancelResponse DistanceActionServer::handle_cancel(std::shared_ptr<rclcpp_action::ServerGoalHandle<actions_quiz_msg::action::Distance> >)[m[K':
+[01m[K/home/user/ros2_ws/src/actions_quiz/src/distance_action_server.cpp:64:91:[m[K [01;35m[Kwarning: [m[Kunused parameter '[01m[Kgoal_handle[m[K' [[01;35m[K-Wunused-parameter[m[K]
+   64 |     rclcpp_action::CancelResponse handle_cancel([01;35m[Kconst std::shared_ptr<GoalHandleDistance> goal_handle[m[K) {
+      |                                                 [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~[m[K

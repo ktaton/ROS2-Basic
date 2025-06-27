@@ -1,0 +1,25 @@
+[0.196s] Invoking command in '/home/user/ros2_ws/build/topics_quiz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/topics_quiz -- -j8 -l8
+[2.085s] [35m[1mConsolidate compiler generated dependencies of target topics_quiz_node[0m
+[2.085s] [100%] Built target topics_quiz_node
+[2.087s] Invoked command in '/home/user/ros2_ws/build/topics_quiz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/topics_quiz -- -j8 -l8
+[2.485s] Invoking command in '/home/user/ros2_ws/build/topics_quiz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/topics_quiz
+[2.497s] -- Install configuration: ""
+[2.500s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/lib/topics_quiz/topics_quiz_node
+[2.501s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz//launch
+[2.502s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz//launch/topics_quiz.launch.py
+[2.502s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/ament_index/resource_index/package_run_dependencies/topics_quiz
+[2.502s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/ament_index/resource_index/parent_prefix_path/topics_quiz
+[2.502s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/ament_prefix_path.sh
+[2.507s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/ament_prefix_path.dsv
+[2.507s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/path.sh
+[2.507s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/environment/path.dsv
+[2.507s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.bash
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.sh
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.zsh
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/local_setup.dsv
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/package.dsv
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/ament_index/resource_index/packages/topics_quiz
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/cmake/topics_quizConfig.cmake
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/cmake/topics_quizConfig-version.cmake
+[2.508s] -- Up-to-date: /home/user/ros2_ws/install/topics_quiz/share/topics_quiz/package.xml
+[2.518s] Invoked command in '/home/user/ros2_ws/build/topics_quiz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/topics_quiz

@@ -1,0 +1,25 @@
+[35m[1mConsolidate compiler generated dependencies of target service_client_node[0m
+[ 50%] Built target service_client_node
+[35m[1mConsolidate compiler generated dependencies of target service_client_v2[0m
+[100%] Built target service_client_v2
+-- Install configuration: ""
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/lib/client_pkg/service_client_node
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/lib/client_pkg/service_client_v2
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg//launch
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg//launch/service_client_launch_file.launch.py
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg//launch/service_client_v2.launch.py
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/ament_index/resource_index/package_run_dependencies/client_pkg
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/ament_index/resource_index/parent_prefix_path/client_pkg
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/environment/path.sh
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/environment/path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/local_setup.bash
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/local_setup.sh
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/local_setup.zsh
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/client_pkg/share/client_pkg/package.dsv
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/ament_index/resource_index/packages/client_pkg
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/cmake/client_pkgConfig.cmake
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/cmake/client_pkgConfig-version.cmake
+-- Up-to-date: /home/user/ros2_ws/install/client_pkg/share/client_pkg/package.xml

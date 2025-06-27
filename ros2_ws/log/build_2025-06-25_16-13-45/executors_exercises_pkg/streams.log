@@ -1,0 +1,67 @@
+[0.128s] Invoking command in '/home/user/ros2_ws/build/executors_exercises_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/executors_exercises_pkg -- -j8 -l8
+[0.310s] [35m[1mConsolidate compiler generated dependencies of target executor_example_1_node[0m
+[0.466s] [ 10%] Built target executor_example_1_node
+[0.514s] [35m[1mConsolidate compiler generated dependencies of target executor_example_5_mutualyexclusive_node[0m
+[0.606s] [ 20%] Built target executor_example_5_mutualyexclusive_node
+[0.710s] [35m[1mConsolidate compiler generated dependencies of target executor_example_5_mutualyexclusive_multiple_node[0m
+[0.786s] [ 30%] Built target executor_example_5_mutualyexclusive_multiple_node
+[1.008s] [ 35%] [32mBuilding CXX object CMakeFiles/box_bot_manager_node.dir/src/box_bot_manager.cpp.o[0m
+[19.232s] [ 40%] [32m[1mLinking CXX executable box_bot_manager_node[0m
+[19.850s] [ 40%] Built target box_bot_manager_node
+[19.896s] [ 45%] [32mBuilding CXX object CMakeFiles/executor_example_5_reentrant_node.dir/src/executor_example_5_reentrant.cpp.o[0m
+[24.862s] [ 50%] [32m[1mLinking CXX executable executor_example_5_reentrant_node[0m
+[25.068s] [ 50%] Built target executor_example_5_reentrant_node
+[25.114s] [ 55%] [32mBuilding CXX object CMakeFiles/executor_example_5_node.dir/src/executor_example_5.cpp.o[0m
+[29.746s] [ 60%] [32m[1mLinking CXX executable executor_example_5_node[0m
+[29.929s] [ 60%] Built target executor_example_5_node
+[29.971s] [ 65%] [32mBuilding CXX object CMakeFiles/executor_example_4_singlethreaded_node.dir/src/executor_example_4_singlethreaded.cpp.o[0m
+[42.790s] [ 70%] [32m[1mLinking CXX executable executor_example_4_singlethreaded_node[0m
+[43.278s] [ 70%] Built target executor_example_4_singlethreaded_node
+[43.316s] [ 75%] [32mBuilding CXX object CMakeFiles/executor_example_4_node.dir/src/executor_example_4.cpp.o[0m
+[55.937s] [ 80%] [32m[1mLinking CXX executable executor_example_4_node[0m
+[56.431s] [ 80%] Built target executor_example_4_node
+[56.468s] [ 85%] [32mBuilding CXX object CMakeFiles/executor_example_3_node.dir/src/executor_example_3.cpp.o[0m
+[69.082s] [ 90%] [32m[1mLinking CXX executable executor_example_3_node[0m
+[69.580s] [ 90%] Built target executor_example_3_node
+[69.612s] [ 95%] [32mBuilding CXX object CMakeFiles/executor_example_2_node.dir/src/executor_example_2.cpp.o[0m
+[82.074s] [100%] [32m[1mLinking CXX executable executor_example_2_node[0m
+[82.577s] [100%] Built target executor_example_2_node
+[82.596s] Invoked command in '/home/user/ros2_ws/build/executors_exercises_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/executors_exercises_pkg -- -j8 -l8
+[82.749s] Invoking command in '/home/user/ros2_ws/build/executors_exercises_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/executors_exercises_pkg
+[82.763s] -- Install configuration: ""
+[82.767s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_1_node
+[82.767s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_1_node" to ""
+[82.767s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_2_node
+[82.777s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_2_node" to ""
+[82.777s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_3_node
+[82.790s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_3_node" to ""
+[82.791s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_4_node
+[82.798s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_4_node" to ""
+[82.798s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_4_singlethreaded_node
+[82.805s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_4_singlethreaded_node" to ""
+[82.805s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_node
+[82.805s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_node" to ""
+[82.805s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_reentrant_node
+[82.806s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_reentrant_node" to ""
+[82.806s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_mutualyexclusive_node
+[82.809s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_mutualyexclusive_node" to ""
+[82.809s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_mutualyexclusive_multiple_node
+[82.812s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/executor_example_5_mutualyexclusive_multiple_node" to ""
+[82.812s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/box_bot_manager_node
+[82.819s] -- Set runtime path of "/home/user/ros2_ws/install/executors_exercises_pkg/lib/executors_exercises_pkg/box_bot_manager_node" to ""
+[82.819s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/ament_index/resource_index/package_run_dependencies/executors_exercises_pkg
+[82.821s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/ament_index/resource_index/parent_prefix_path/executors_exercises_pkg
+[82.821s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/environment/ament_prefix_path.sh
+[82.822s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/environment/ament_prefix_path.dsv
+[82.823s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/environment/path.sh
+[82.823s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/environment/path.dsv
+[82.824s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/local_setup.bash
+[82.824s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/local_setup.sh
+[82.825s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/local_setup.zsh
+[82.826s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/local_setup.dsv
+[82.827s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/package.dsv
+[82.828s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/ament_index/resource_index/packages/executors_exercises_pkg
+[82.828s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/cmake/executors_exercises_pkgConfig.cmake
+[82.829s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/cmake/executors_exercises_pkgConfig-version.cmake
+[82.830s] -- Installing: /home/user/ros2_ws/install/executors_exercises_pkg/share/executors_exercises_pkg/package.xml
+[82.843s] Invoked command in '/home/user/ros2_ws/build/executors_exercises_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/executors_exercises_pkg

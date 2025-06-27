@@ -1,0 +1,7 @@
+[01m[K/home/user/ros2_ws/src/my_components/src/server_component.cpp:[m[K In lambda function:
+[01m[K/home/user/ros2_ws/src/my_components/src/server_component.cpp:18:52:[m[K [01;35m[Kwarning: [m[Kunused parameter '[01m[Krequest[m[K' [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   18 |       [this]([01;35m[Kconst std::shared_ptr<Empty::Request> request[m[K,
+      |              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~[m[K
+[01m[K/home/user/ros2_ws/src/my_components/src/server_component.cpp:19:47:[m[K [01;35m[Kwarning: [m[Kunused parameter '[01m[Kresponse[m[K' [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   19 |              [01;35m[Kstd::shared_ptr<Empty::Response> response[m[K) -> void {
+      |              [01;35m[K~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~[m[K

@@ -1,0 +1,81 @@
+[0.000000] (-) TimerEvent: {}
+[0.000517] (-) JobUnselected: {'identifier': 'actions_quiz'}
+[0.000578] (-) JobUnselected: {'identifier': 'actions_quiz_msg'}
+[0.000615] (-) JobUnselected: {'identifier': 'client_pkg'}
+[0.000925] (-) JobUnselected: {'identifier': 'custom_interfaces'}
+[0.000968] (-) JobUnselected: {'identifier': 'executors_exercises_pkg'}
+[0.001004] (-) JobUnselected: {'identifier': 'exercise52_pkg'}
+[0.001037] (-) JobUnselected: {'identifier': 'logs_test'}
+[0.005233] (-) JobUnselected: {'identifier': 'movement_pkg'}
+[0.005312] (-) JobUnselected: {'identifier': 'my_action_client'}
+[0.005364] (-) JobUnselected: {'identifier': 'my_action_server'}
+[0.005398] (-) JobUnselected: {'identifier': 'my_package'}
+[0.005428] (-) JobUnselected: {'identifier': 'services_quiz'}
+[0.005459] (-) JobUnselected: {'identifier': 'services_quiz_srv'}
+[0.005490] (-) JobUnselected: {'identifier': 'topic_publisher_pkg'}
+[0.005522] (-) JobUnselected: {'identifier': 'topic_subscriber_pkg'}
+[0.005553] (-) JobUnselected: {'identifier': 'topics_quiz'}
+[0.005590] (my_components) JobQueued: {'identifier': 'my_components', 'dependencies': OrderedDict()}
+[0.005627] (my_components) JobStarted: {'identifier': 'my_components'}
+[0.032706] (my_components) JobProgress: {'identifier': 'my_components', 'progress': 'cmake'}
+[0.033704] (my_components) JobProgress: {'identifier': 'my_components', 'progress': 'build'}
+[0.034665] (my_components) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/user/ros2_ws/build/my_components', '--', '-j8', '-l8'], 'cwd': '/home/user/ros2_ws/build/my_components', 'env': OrderedDict([('ROS_VERSION', '2'), ('NVIDIA_VISIBLE_DEVICES', 'all'), ('GAZEBO_MASTER_URI', 'http://3_simulation:11345'), ('ROS_PYTHON_VERSION', '3'), ('HOSTNAME', '3_xterm'), ('PWD', '/home/user/ros2_ws/build/my_components'), ('PORT', '4000'), ('NVIDIA_DRIVER_CAPABILITIES', 'all'), ('ROS_IP', ''), ('HOME', '/home/user'), ('GAZEBO_PLUGIN_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:'), ('LANG', 'en_US.UTF-8'), ('GAZEBO_MODEL_DATABASE_URI', 'http://models.gazebosim.org'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/home/simulations/ros2_sims_ws/install/turtlebot3:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_simulations:/home/simulations/ros2_sims_ws/install/turtlebot3_navigation2:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/turtlebot3_msgs:/home/simulations/ros2_sims_ws/install/turtlebot3_gazebo:/home/simulations/ros2_sims_ws/install/turtlebot3_bringup:/home/simulations/ros2_sims_ws/install/turtlebot3_description:/home/simulations/ros2_sims_ws/install/turtlebot3_cartographer:/home/simulations/ros2_sims_ws/install/turtlebot3_as:/home/simulations/ros2_sims_ws/install/t3_action_msg:/home/simulations/ros2_sims_ws/install/services_pkg:/home/simulations/ros2_sims_ws/install/dynamixel_sdk:/home/user/ros2_ws/install/topics_quiz:/home/user/ros2_ws/install/topic_subscriber_pkg:/home/user/ros2_ws/install/topic_publisher_pkg:/home/user/ros2_ws/install/services_quiz:/home/user/ros2_ws/install/services_quiz_srv:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/my_components:/home/user/ros2_ws/install/my_action_server:/home/user/ros2_ws/install/my_action_client:/home/user/ros2_ws/install/movement_pkg:/home/user/ros2_ws/install/logs_test:/home/user/ros2_ws/install/exercise52_pkg:/home/user/ros2_ws/install/executors_exercises_pkg:/home/user/ros2_ws/install/custom_interfaces:/home/user/ros2_ws/install/client_pkg:/home/user/ros2_ws/install/actions_quiz:/home/user/ros2_ws/install/actions_quiz_msg:/opt/ros/humble'), ('CMAKE_PREFIX_PATH', '/home/simulations/ros2_sims_ws/install/turtlebot3:/home/simulations/ros2_sims_ws/install/turtlebot3_simulations:/home/simulations/ros2_sims_ws/install/turtlebot3_navigation2:/home/simulations/ros2_sims_ws/install/turtlebot3_msgs:/home/simulations/ros2_sims_ws/install/turtlebot3_gazebo:/home/simulations/ros2_sims_ws/install/turtlebot3_bringup:/home/simulations/ros2_sims_ws/install/turtlebot3_description:/home/simulations/ros2_sims_ws/install/turtlebot3_cartographer:/home/simulations/ros2_sims_ws/install/turtlebot3_as:/home/simulations/ros2_sims_ws/install/t3_action_msg:/home/simulations/ros2_sims_ws/install/dynamixel_sdk:/home/user/ros2_ws/install/topics_quiz:/home/user/ros2_ws/install/topic_subscriber_pkg:/home/user/ros2_ws/install/topic_publisher_pkg:/home/user/ros2_ws/install/services_quiz:/home/user/ros2_ws/install/services_quiz_srv:/home/user/ros2_ws/install/my_package:/home/user/ros2_ws/install/my_components:/home/user/ros2_ws/install/my_action_server:/home/user/ros2_ws/install/my_action_client:/home/user/ros2_ws/install/movement_pkg:/home/user/ros2_ws/install/logs_test:/home/user/ros2_ws/install/exercise52_pkg:/home/user/ros2_ws/install/executors_exercises_pkg:/home/user/ros2_ws/install/custom_interfaces:/home/user/ros2_ws/install/client_pkg:/home/user/ros2_ws/install/actions_quiz:/home/user/ros2_ws/install/actions_quiz_msg:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble'), ('GAZEBO_RESOURCE_PATH', '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo'), ('COLCON_PREFIX_PATH', '/home/simulations/ros2_sims_ws/install:/home/user/ros2_ws/install'), ('GAZEBO_MASTER_PORT', '11345'), ('NVM_DIR', '/usr/local/share/shell/.nvm'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('PYTHONPATH', '/home/simulations/ros2_sims_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/simulations/ros2_sims_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/t3_action_msg/local/lib/python3.10/dist-packages:/home/simulations/ros2_sims_ws/install/services_pkg/lib/python3.10/site-packages:/home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages:/home/user/ros2_ws/install/custom_interfaces/local/lib/python3.10/dist-packages:/home/user/ros2_ws/install/actions_quiz_msg/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages:/home/simulations/public_sim_ws/src/all/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/ros_basics_examples/python_course_class:/home/simulations/public_sim_ws/src/all/kinematics_course_utils/kinematics'), ('COLCON', '1'), ('TERM', 'xterm-color'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('SNAPCRAFT_BUILD_ENVIRONMENT', 'host'), ('GAZEBO_MASTER_HOSTNAME', '3_simulation'), ('DISPLAY', ':1'), ('SHLVL', '2'), ('NVM_CD_FLAGS', ''), ('ROS_MASTER_URI', 'http://3_simulation:11311'), ('ROS_HOSTNAME', '3_xterm'), ('LD_LIBRARY_PATH', '/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib:/home/simulations/ros2_sims_ws/install/turtlebot3_msgs/lib:/home/simulations/ros2_sims_ws/install/t3_action_msg/lib:/home/simulations/ros2_sims_ws/install/dynamixel_sdk/lib:/home/user/ros2_ws/install/services_quiz_srv/lib:/home/user/ros2_ws/install/my_components/lib:/home/user/ros2_ws/install/custom_interfaces/lib:/home/user/ros2_ws/install/actions_quiz_msg/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-10.2/lib64:/home/user/.catkin_ws_python3/src/TensorRT-7.0.0.11/lib::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:'), ('ROS_LOCALHOST_ONLY', '0'), ('SLOT_SHELL_START_ID', '0'), ('SLOT_PREFIX', 'c5f87a71-3ef0-4ecf-b7a6-4303b1fae1e9'), ('LC_ALL', 'C'), ('SOURCE_ROS1_WS', ''), ('GAZEBO_MODEL_PATH', '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-9/models:/usr/share/gazebo/models_robox'), ('SLOT_JENKINS_PORT', '25684'), ('SLOT_SYSTEMD', 'False'), ('PATH', '/opt/ros/humble/bin:/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/home/user/.cargo/bin:/home/user/.cargo/bin'), ('SELECTED_ROS_DISTRO', 'humble'), ('NVM_BIN', '/usr/local/share/shell/.nvm/versions/node/v8.17.0/bin'), ('NODE_VERSION', 'v8.17.0'), ('DEBIAN_FRONTEND', 'noninteractive'), ('ROS_DISTRO', 'humble'), ('GAZEBO_VERBOSE', '0'), ('OGRE_RESOURCE_PATH', '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0'), ('OLDPWD', '/home/user'), ('SOURCE_ROS2_WS', 'True'), ('SLOT_ROSBRIDGE_PORT', '20003'), ('_', '/usr/bin/env')]), 'shell': False}
+[0.098586] (my_components) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.099312] (-) TimerEvent: {}
+[0.199658] (-) TimerEvent: {}
+[0.300000] (-) TimerEvent: {}
+[0.341599] (my_components) StdoutLine: {'line': b'-- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.397498] (my_components) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.400347] (-) TimerEvent: {}
+[0.401597] (my_components) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.411801] (my_components) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.429073] (my_components) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.456309] (my_components) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.500483] (-) TimerEvent: {}
+[0.569937] (my_components) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.573233] (my_components) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[0.600640] (-) TimerEvent: {}
+[0.701164] (-) TimerEvent: {}
+[0.801928] (-) TimerEvent: {}
+[0.828618] (my_components) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[0.902589] (-) TimerEvent: {}
+[1.002959] (-) TimerEvent: {}
+[1.095484] (my_components) StdoutLine: {'line': b'-- Found rclcpp_components: 16.0.1 (/opt/ros/humble/share/rclcpp_components/cmake)\n'}
+[1.103076] (-) TimerEvent: {}
+[1.196631] (my_components) StdoutLine: {'line': b'-- Found composition: 0.20.2 (/opt/ros/humble/share/composition/cmake)\n'}
+[1.197441] (my_components) StdoutLine: {'line': b'-- Found geometry_msgs: 4.2.2 (/opt/ros/humble/share/geometry_msgs/cmake)\n'}
+[1.203193] (-) TimerEvent: {}
+[1.274493] (my_components) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[1.303321] (-) TimerEvent: {}
+[1.391940] (my_components) StdoutLine: {'line': b"-- Added test 'cppcheck' to perform static code analysis on C / C++ code\n"}
+[1.392319] (my_components) StdoutLine: {'line': b'-- Configured cppcheck include dirs: /home/user/ros2_ws/src/my_components/include\n'}
+[1.392493] (my_components) StdoutLine: {'line': b'-- Configured cppcheck exclude dirs and/or files: \n'}
+[1.392822] (my_components) StdoutLine: {'line': b"-- Added test 'flake8' to check Python code syntax and style conventions\n"}
+[1.394150] (my_components) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[1.394758] (my_components) StdoutLine: {'line': b"-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257\n"}
+[1.396377] (my_components) StdoutLine: {'line': b"-- Added test 'uncrustify' to check C / C++ code style\n"}
+[1.396564] (my_components) StdoutLine: {'line': b'-- Configured uncrustify additional arguments: \n'}
+[1.396981] (my_components) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[1.398493] (my_components) StdoutLine: {'line': b'-- Configuring done\n'}
+[1.403408] (-) TimerEvent: {}
+[1.420170] (my_components) StdoutLine: {'line': b'-- Generating done\n'}
+[1.423050] (my_components) StdoutLine: {'line': b'-- Build files have been written to: /home/user/ros2_ws/build/my_components\n'}
+[1.468530] (my_components) StdoutLine: {'line': b'\x1b[35m\x1b[1mConsolidate compiler generated dependencies of target moverobot_component\x1b[0m\n'}
+[1.503552] (-) TimerEvent: {}
+[1.505327] (my_components) StdoutLine: {'line': b'[ 50%] Built target moverobot_component\n'}
+[1.542190] (my_components) StdoutLine: {'line': b'[ 75%] \x1b[32mBuilding CXX object CMakeFiles/manual_composition.dir/src/manual_composition.cpp.o\x1b[0m\n'}
+[1.603681] (-) TimerEvent: {}
+[1.704033] (-) TimerEvent: {}
+[1.804424] (-) TimerEvent: {}
+[1.904771] (-) TimerEvent: {}
+[1.932204] (my_components) StderrLine: {'line': b'\x1b[01m\x1b[K/home/user/ros2_ws/src/my_components/src/manual_composition.cpp:4:10:\x1b[m\x1b[K \x1b[01;31m\x1b[Kfatal error: \x1b[m\x1b[Kmy_components/readodom_component.hpp: No such file or directory\n'}
+[1.932515] (my_components) StderrLine: {'line': b'    4 | #include \x1b[01;31m\x1b[K"my_components/readodom_component.hpp"\x1b[m\x1b[K\n'}
+[1.932617] (my_components) StderrLine: {'line': b'      |          \x1b[01;31m\x1b[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[1.932712] (my_components) StderrLine: {'line': b'compilation terminated.\n'}
+[1.936417] (my_components) StderrLine: {'line': b'gmake[2]: *** [CMakeFiles/manual_composition.dir/build.make:76: CMakeFiles/manual_composition.dir/src/manual_composition.cpp.o] Error 1\n'}
+[1.937193] (my_components) StderrLine: {'line': b'gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/manual_composition.dir/all] Error 2\n'}
+[1.937321] (my_components) StderrLine: {'line': b'gmake: *** [Makefile:146: all] Error 2\n'}
+[1.941646] (my_components) CommandEnded: {'returncode': 2}
+[2.005227] (-) TimerEvent: {}
+[2.061327] (my_components) JobEnded: {'identifier': 'my_components', 'rc': 2}
+[2.076687] (-) EventReactorShutdown: {}

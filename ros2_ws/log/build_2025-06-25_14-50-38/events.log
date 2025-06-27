@@ -1,0 +1,18 @@
+[0.000000] (-) TimerEvent: {}
+[0.000365] (-) JobUnselected: {'identifier': 'actions_quiz'}
+[0.000422] (-) JobUnselected: {'identifier': 'actions_quiz_msg'}
+[0.000666] (-) JobUnselected: {'identifier': 'client_pkg'}
+[0.000700] (-) JobUnselected: {'identifier': 'custom_interfaces'}
+[0.000830] (-) JobUnselected: {'identifier': 'executors_exercises_pkg'}
+[0.000867] (-) JobUnselected: {'identifier': 'exercise52_pkg'}
+[0.000897] (-) JobUnselected: {'identifier': 'logs_test'}
+[0.000926] (-) JobUnselected: {'identifier': 'movement_pkg'}
+[0.000955] (-) JobUnselected: {'identifier': 'my_action_client'}
+[0.000984] (-) JobUnselected: {'identifier': 'my_action_server'}
+[0.001012] (-) JobUnselected: {'identifier': 'my_package'}
+[0.001040] (-) JobUnselected: {'identifier': 'services_quiz'}
+[0.001192] (-) JobUnselected: {'identifier': 'services_quiz_srv'}
+[0.001264] (-) JobUnselected: {'identifier': 'topic_publisher_pkg'}
+[0.001296] (-) JobUnselected: {'identifier': 'topic_subscriber_pkg'}
+[0.001326] (-) JobUnselected: {'identifier': 'topics_quiz'}
+[0.001356] (-) EventReactorShutdown: {}

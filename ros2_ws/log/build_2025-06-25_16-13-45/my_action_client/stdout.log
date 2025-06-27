@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target action_client_node[0m
+[100%] Built target action_client_node
+-- Install configuration: ""
+-- Installing: /home/user/ros2_ws/install/my_action_client/lib/my_action_client/action_client_node
+-- Set runtime path of "/home/user/ros2_ws/install/my_action_client/lib/my_action_client/action_client_node" to ""
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client//launch
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client//launch/action_client.launch.py
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/ament_index/resource_index/package_run_dependencies/my_action_client
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/ament_index/resource_index/parent_prefix_path/my_action_client
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/environment/ament_prefix_path.sh
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/environment/ament_prefix_path.dsv
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/environment/path.sh
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/environment/path.dsv
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/local_setup.bash
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/local_setup.sh
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/local_setup.zsh
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/package.dsv
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/ament_index/resource_index/packages/my_action_client
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/cmake/my_action_clientConfig.cmake
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/cmake/my_action_clientConfig-version.cmake
+-- Installing: /home/user/ros2_ws/install/my_action_client/share/my_action_client/package.xml

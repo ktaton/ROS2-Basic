@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target movement_server_node[0m
+[100%] Built target movement_server_node
+-- Install configuration: ""
+-- Installing: /home/user/ros2_ws/install/movement_pkg/lib/movement_pkg/movement_server_node
+-- Set runtime path of "/home/user/ros2_ws/install/movement_pkg/lib/movement_pkg/movement_server_node" to ""
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg//launch
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg//launch/movement_server_launch_file.launch.py
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/ament_index/resource_index/package_run_dependencies/movement_pkg
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/ament_index/resource_index/parent_prefix_path/movement_pkg
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/ament_prefix_path.sh
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/ament_prefix_path.dsv
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/path.sh
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/environment/path.dsv
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.bash
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.sh
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.zsh
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/package.dsv
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/ament_index/resource_index/packages/movement_pkg
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/cmake/movement_pkgConfig.cmake
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/cmake/movement_pkgConfig-version.cmake
+-- Installing: /home/user/ros2_ws/install/movement_pkg/share/movement_pkg/package.xml

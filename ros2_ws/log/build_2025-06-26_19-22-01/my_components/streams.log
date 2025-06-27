@@ -1,0 +1,12 @@
+[0.024s] Invoking command in '/home/user/ros2_ws/build/my_components': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_components -- -j8 -l8
+[0.124s] [ 50%] Built target moverobot_component
+[0.165s] [ 75%] [32mBuilding CXX object CMakeFiles/manual_composition.dir/src/manual_composition.cpp.o[0m
+[0.523s] In file included from [01m[K/home/user/ros2_ws/src/my_components/src/manual_composition.cpp:4[m[K:
+[0.523s] [01m[K/home/user/ros2_ws/src/my_components/include/my_components/readodom_component.hpp:5:10:[m[K [01;31m[Kfatal error: [m[Knav_msgs/msg/odometry.hpp: No such file or directory
+[0.523s]     5 | #include [01;31m[K"nav_msgs/msg/odometry.hpp"[m[K
+[0.523s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.523s] compilation terminated.
+[0.527s] gmake[2]: *** [CMakeFiles/manual_composition.dir/build.make:76: CMakeFiles/manual_composition.dir/src/manual_composition.cpp.o] Error 1
+[0.527s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/manual_composition.dir/all] Error 2
+[0.527s] gmake: *** [Makefile:146: all] Error 2
+[0.530s] Invoked command in '/home/user/ros2_ws/build/my_components' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_components -- -j8 -l8

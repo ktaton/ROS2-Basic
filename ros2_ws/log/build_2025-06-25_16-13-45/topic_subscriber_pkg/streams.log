@@ -1,0 +1,38 @@
+[0.286s] Invoking command in '/home/user/ros2_ws/build/topic_subscriber_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/topic_subscriber_pkg -- -j8 -l8
+[0.628s] [35m[1mConsolidate compiler generated dependencies of target simple_subscriber_node[0m
+[0.778s] [ 33%] Built target simple_subscriber_node
+[0.954s] [ 50%] [32mBuilding CXX object CMakeFiles/laser_subscriber_node.dir/src/laser_subscriber.cpp.o[0m
+[17.737s] [ 66%] [32m[1mLinking CXX executable laser_subscriber_node[0m
+[18.285s] [ 66%] Built target laser_subscriber_node
+[18.325s] [ 83%] [32mBuilding CXX object CMakeFiles/sub_odom_node.dir/src/sub_odom.cpp.o[0m
+[31.573s] [100%] [32m[1mLinking CXX executable sub_odom_node[0m
+[32.066s] [100%] Built target sub_odom_node
+[32.082s] Invoked command in '/home/user/ros2_ws/build/topic_subscriber_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/topic_subscriber_pkg -- -j8 -l8
+[32.200s] Invoking command in '/home/user/ros2_ws/build/topic_subscriber_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/topic_subscriber_pkg
+[32.212s] -- Install configuration: ""
+[32.212s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/lib/topic_subscriber_pkg/simple_subscriber_node
+[32.228s] -- Set runtime path of "/home/user/ros2_ws/install/topic_subscriber_pkg/lib/topic_subscriber_pkg/simple_subscriber_node" to ""
+[32.228s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/lib/topic_subscriber_pkg/sub_odom_node
+[32.234s] -- Set runtime path of "/home/user/ros2_ws/install/topic_subscriber_pkg/lib/topic_subscriber_pkg/sub_odom_node" to ""
+[32.235s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/lib/topic_subscriber_pkg/laser_subscriber_node
+[32.246s] -- Set runtime path of "/home/user/ros2_ws/install/topic_subscriber_pkg/lib/topic_subscriber_pkg/laser_subscriber_node" to ""
+[32.246s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg//launch
+[32.246s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg//launch/simple_topic_subscriber.launch.py
+[32.246s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg//launch/sub_odom.launch.py
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg//launch/laser_subscriber.launch.py
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/ament_index/resource_index/package_run_dependencies/topic_subscriber_pkg
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/ament_index/resource_index/parent_prefix_path/topic_subscriber_pkg
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/environment/ament_prefix_path.sh
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/environment/ament_prefix_path.dsv
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/environment/path.sh
+[32.250s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/environment/path.dsv
+[32.251s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/local_setup.bash
+[32.251s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/local_setup.sh
+[32.251s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/local_setup.zsh
+[32.251s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/local_setup.dsv
+[32.251s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/package.dsv
+[32.252s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/ament_index/resource_index/packages/topic_subscriber_pkg
+[32.252s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/cmake/topic_subscriber_pkgConfig.cmake
+[32.253s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/cmake/topic_subscriber_pkgConfig-version.cmake
+[32.254s] -- Installing: /home/user/ros2_ws/install/topic_subscriber_pkg/share/topic_subscriber_pkg/package.xml
+[32.271s] Invoked command in '/home/user/ros2_ws/build/topic_subscriber_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/topic_subscriber_pkg

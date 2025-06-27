@@ -1,0 +1,59 @@
+[0.118s] Invoking command in '/home/user/ros2_ws/build/executors_exercises_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/executors_exercises_pkg -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/executors_exercises_pkg
+[0.478s] -- The C compiler identification is GNU 11.2.0
+[0.763s] -- The CXX compiler identification is GNU 11.2.0
+[0.858s] -- Detecting C compiler ABI info
+[1.220s] -- Detecting C compiler ABI info - done
+[1.228s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.243s] -- Detecting C compile features
+[1.243s] -- Detecting C compile features - done
+[1.250s] -- Detecting CXX compiler ABI info
+[1.651s] -- Detecting CXX compiler ABI info - done
+[1.725s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.725s] -- Detecting CXX compile features
+[1.727s] -- Detecting CXX compile features - done
+[1.744s] -- Found ament_cmake: 1.3.2 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.740s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[3.454s] -- Found rclcpp: 16.0.1 (/opt/ros/humble/share/rclcpp/cmake)
+[3.923s] -- Found rosidl_generator_c: 3.1.3 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.939s] -- Found rosidl_adapter: 3.1.3 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.030s] -- Found rosidl_generator_cpp: 3.1.3 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.220s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.342s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.845s] -- Found rmw_implementation_cmake: 6.1.0 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[4.856s] -- Found rmw_fastrtps_cpp: 6.2.1 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.473s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[5.641s] -- Found FastRTPS: /opt/ros/humble/include  
+[5.934s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.844s] -- Found nav_msgs: 4.2.2 (/opt/ros/humble/share/nav_msgs/cmake)
+[7.549s] -- Found ament_lint_auto: 0.12.4 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[8.138s] -- Added test 'copyright' to check source files copyright and LICENSE
+[8.142s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[8.142s] -- Configured cppcheck include dirs: 
+[8.143s] -- Configured cppcheck exclude dirs and/or files: 
+[8.145s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[8.146s] -- Configured cpplint exclude dirs and/or files: 
+[8.149s] -- Added test 'lint_cmake' to check CMake code style
+[8.151s] -- Added test 'uncrustify' to check C / C++ code style
+[8.151s] -- Configured uncrustify additional arguments: 
+[8.153s] -- Added test 'xmllint' to check XML markup files
+[8.157s] -- Configuring done
+[8.341s] -- Generating done
+[8.344s] -- Build files have been written to: /home/user/ros2_ws/build/executors_exercises_pkg
+[8.436s] Invoked command in '/home/user/ros2_ws/build/executors_exercises_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/ros2_ws/src/executors_exercises_pkg -DCMAKE_INSTALL_PREFIX=/home/user/ros2_ws/install/executors_exercises_pkg
+[8.437s] Invoking command in '/home/user/ros2_ws/build/executors_exercises_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/executors_exercises_pkg -- -j8 -l8
+[8.670s] [  5%] [32mBuilding CXX object CMakeFiles/executor_example_1_node.dir/src/executor_example_1.cpp.o[0m
+[26.128s] [ 10%] [32m[1mLinking CXX executable executor_example_1_node[0m
+[27.352s] [ 10%] Built target executor_example_1_node
+[27.723s] [ 15%] [32mBuilding CXX object CMakeFiles/executor_example_5_mutualyexclusive_node.dir/src/executor_example_5_mutualyexclusive.cpp.o[0m
+[43.441s] [ 20%] [32m[1mLinking CXX executable executor_example_5_mutualyexclusive_node[0m
+[44.035s] [ 20%] Built target executor_example_5_mutualyexclusive_node
+[44.141s] [ 25%] [32mBuilding CXX object CMakeFiles/executor_example_5_mutualyexclusive_multiple_node.dir/src/executor_example_5_mutualyexclusive_multiple.cpp.o[0m
+[55.624s] [ 30%] [32m[1mLinking CXX executable executor_example_5_mutualyexclusive_multiple_node[0m
+[56.044s] [ 30%] Built target executor_example_5_mutualyexclusive_multiple_node
+[56.137s] [ 35%] [32mBuilding CXX object CMakeFiles/box_bot_manager_node.dir/src/box_bot_manager.cpp.o[0m
+[195.842s] [01m[Kc++:[m[K [01;31m[Kfatal error: [m[KKilled signal terminated program cc1plus
+[195.843s] compilation terminated.
+[195.844s] gmake[2]: *** [CMakeFiles/box_bot_manager_node.dir/build.make:76: CMakeFiles/box_bot_manager_node.dir/src/box_bot_manager.cpp.o] Error 1
+[195.845s] gmake[1]: *** [CMakeFiles/Makefile2:389: CMakeFiles/box_bot_manager_node.dir/all] Error 2
+[195.845s] gmake: *** [Makefile:146: all] Error 2
+[196.045s] Invoked command in '/home/user/ros2_ws/build/executors_exercises_pkg' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/executors_exercises_pkg -- -j8 -l8

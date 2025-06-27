@@ -1,0 +1,25 @@
+[0.107s] Invoking command in '/home/user/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_package -- -j8 -l8
+[0.504s] [35m[1mConsolidate compiler generated dependencies of target simple_node[0m
+[0.595s] [100%] Built target simple_node
+[0.643s] Invoked command in '/home/user/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/my_package -- -j8 -l8
+[1.000s] Invoking command in '/home/user/ros2_ws/build/my_package': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_package
+[2.393s] -- Install configuration: ""
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/lib/my_package/simple_node
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package//launch
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package//launch/my_package_launch_file.launch.py
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/ament_index/resource_index/package_run_dependencies/my_package
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/ament_index/resource_index/parent_prefix_path/my_package
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.sh
+[2.393s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/environment/ament_prefix_path.dsv
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/environment/path.sh
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/environment/path.dsv
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/local_setup.bash
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/local_setup.sh
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/local_setup.zsh
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/local_setup.dsv
+[2.394s] -- Installing: /home/user/ros2_ws/install/my_package/share/my_package/package.dsv
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/ament_index/resource_index/packages/my_package
+[2.394s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig.cmake
+[2.395s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/cmake/my_packageConfig-version.cmake
+[2.395s] -- Up-to-date: /home/user/ros2_ws/install/my_package/share/my_package/package.xml
+[2.419s] Invoked command in '/home/user/ros2_ws/build/my_package' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/my_package

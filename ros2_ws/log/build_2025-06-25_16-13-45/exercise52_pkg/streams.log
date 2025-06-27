@@ -1,0 +1,25 @@
+[0.129s] Invoking command in '/home/user/ros2_ws/build/exercise52_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/exercise52_pkg -- -j8 -l8
+[0.380s] [35m[1mConsolidate compiler generated dependencies of target exercise52_node[0m
+[0.490s] [100%] Built target exercise52_node
+[0.573s] Invoked command in '/home/user/ros2_ws/build/exercise52_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/exercise52_pkg -- -j8 -l8
+[0.885s] Invoking command in '/home/user/ros2_ws/build/exercise52_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/exercise52_pkg
+[0.989s] -- Install configuration: ""
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/lib/exercise52_pkg/exercise52_node
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch/exercise52_launch_file.launch.py
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/package_run_dependencies/exercise52_pkg
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/parent_prefix_path/exercise52_pkg
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.sh
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.dsv
+[0.990s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.sh
+[0.991s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.dsv
+[0.991s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.bash
+[0.991s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.sh
+[0.991s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.zsh
+[0.992s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.dsv
+[0.992s] -- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.dsv
+[0.992s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/packages/exercise52_pkg
+[0.992s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig.cmake
+[0.992s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig-version.cmake
+[0.992s] -- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.xml
+[1.168s] Invoked command in '/home/user/ros2_ws/build/exercise52_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/exercise52_pkg

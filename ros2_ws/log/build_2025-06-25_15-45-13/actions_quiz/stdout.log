@@ -1,0 +1,25 @@
+[35m[1mConsolidate compiler generated dependencies of target distance_action_server[0m
+[ 50%] Built target distance_action_server
+[35m[1mConsolidate compiler generated dependencies of target distance_action_client[0m
+[100%] Built target distance_action_client
+-- Install configuration: ""
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/lib/actions_quiz/distance_action_server
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/lib/actions_quiz/distance_action_client
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz//launch
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz//launch/actions_quiz_client.launch.py
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz//launch/actions_quiz_server.launch.py
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/ament_index/resource_index/package_run_dependencies/actions_quiz
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/ament_index/resource_index/parent_prefix_path/actions_quiz
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/environment/path.sh
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/environment/path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/local_setup.bash
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/local_setup.sh
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/local_setup.zsh
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/package.dsv
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/ament_index/resource_index/packages/actions_quiz
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/cmake/actions_quizConfig.cmake
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/cmake/actions_quizConfig-version.cmake
+-- Up-to-date: /home/user/ros2_ws/install/actions_quiz/share/actions_quiz/package.xml

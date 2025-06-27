@@ -1,0 +1,21 @@
+[35m[1mConsolidate compiler generated dependencies of target exercise52_node[0m
+[100%] Built target exercise52_node
+-- Install configuration: ""
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/lib/exercise52_pkg/exercise52_node
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch/exercise52_launch_file.launch.py
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/package_run_dependencies/exercise52_pkg
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/parent_prefix_path/exercise52_pkg
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.sh
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.sh
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.dsv
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.bash
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.sh
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.zsh
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.dsv
+-- Installing: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.dsv
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/packages/exercise52_pkg
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig.cmake
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig-version.cmake
+-- Up-to-date: /home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.xml

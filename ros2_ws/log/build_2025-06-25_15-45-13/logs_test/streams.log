@@ -1,0 +1,23 @@
+[0.105s] Invoking command in '/home/user/ros2_ws/build/logs_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/logs_test -- -j8 -l8
+[3.399s] [35m[1mConsolidate compiler generated dependencies of target logger_example_node[0m
+[3.400s] [100%] Built target logger_example_node
+[3.405s] Invoked command in '/home/user/ros2_ws/build/logs_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/logs_test -- -j8 -l8
+[3.707s] Invoking command in '/home/user/ros2_ws/build/logs_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/logs_test
+[7.613s] -- Install configuration: ""
+[7.614s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/lib/logs_test/logger_example_node
+[7.614s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/ament_index/resource_index/package_run_dependencies/logs_test
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/ament_index/resource_index/parent_prefix_path/logs_test
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/environment/ament_prefix_path.sh
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/environment/ament_prefix_path.dsv
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/environment/path.sh
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/environment/path.dsv
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.bash
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.sh
+[7.615s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.zsh
+[7.617s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.dsv
+[7.620s] -- Installing: /home/user/ros2_ws/install/logs_test/share/logs_test/package.dsv
+[7.621s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/ament_index/resource_index/packages/logs_test
+[7.621s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/cmake/logs_testConfig.cmake
+[7.621s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/cmake/logs_testConfig-version.cmake
+[7.621s] -- Up-to-date: /home/user/ros2_ws/install/logs_test/share/logs_test/package.xml
+[7.703s] Invoked command in '/home/user/ros2_ws/build/logs_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/logs_test

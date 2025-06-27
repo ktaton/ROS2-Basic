@@ -1,0 +1,159 @@
+[0.126s] Invoking command in '/home/user/ros2_ws/build/services_quiz_srv': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/services_quiz_srv -- -j8 -l8
+[0.395s] [  3%] Built target services_quiz_srv__cpp
+[0.632s] [  3%] Built target ament_cmake_python_copy_services_quiz_srv
+[0.714s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_cpp[0m
+[0.750s] [ 12%] Built target services_quiz_srv__rosidl_typesupport_cpp
+[2.012s] running egg_info
+[2.013s] writing services_quiz_srv.egg-info/PKG-INFO
+[2.013s] writing dependency_links to services_quiz_srv.egg-info/dependency_links.txt
+[2.013s] writing top-level names to services_quiz_srv.egg-info/top_level.txt
+[2.026s] reading manifest file 'services_quiz_srv.egg-info/SOURCES.txt'
+[2.026s] writing manifest file 'services_quiz_srv.egg-info/SOURCES.txt'
+[2.137s] [ 12%] Built target ament_cmake_python_build_services_quiz_srv_egg
+[2.230s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_introspection_cpp[0m
+[2.340s] [ 22%] Built target services_quiz_srv__rosidl_typesupport_introspection_cpp
+[2.409s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_fastrtps_cpp[0m
+[2.509s] [ 32%] Built target services_quiz_srv__rosidl_typesupport_fastrtps_cpp
+[2.548s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_generator_c[0m
+[2.643s] [ 41%] Built target services_quiz_srv__rosidl_generator_c
+[2.757s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_fastrtps_c[0m
+[2.833s] [ 51%] Built target services_quiz_srv__rosidl_typesupport_fastrtps_c
+[2.913s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_c[0m
+[2.993s] [ 61%] Built target services_quiz_srv__rosidl_typesupport_c
+[3.032s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_introspection_c[0m
+[3.118s] [ 70%] Built target services_quiz_srv__rosidl_typesupport_introspection_c
+[3.311s] [ 70%] Built target services_quiz_srv
+[3.428s] [ 74%] Built target services_quiz_srv__py
+[3.512s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_generator_py[0m
+[3.597s] [ 80%] Built target services_quiz_srv__rosidl_generator_py
+[3.632s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_fastrtps_c__pyext[0m
+[3.709s] [ 87%] Built target services_quiz_srv__rosidl_typesupport_fastrtps_c__pyext
+[3.799s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_c__pyext[0m
+[3.839s] [ 93%] Built target services_quiz_srv__rosidl_typesupport_c__pyext
+[3.922s] [35m[1mConsolidate compiler generated dependencies of target services_quiz_srv__rosidl_typesupport_introspection_c__pyext[0m
+[3.998s] [100%] Built target services_quiz_srv__rosidl_typesupport_introspection_c__pyext
+[4.128s] Invoked command in '/home/user/ros2_ws/build/services_quiz_srv' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/ros2_ws/build/services_quiz_srv -- -j8 -l8
+[4.924s] Invoking command in '/home/user/ros2_ws/build/services_quiz_srv': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/services_quiz_srv
+[4.998s] -- Install configuration: ""
+[4.998s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/ament_index/resource_index/rosidl_interfaces/services_quiz_srv
+[4.999s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv
+[4.999s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv
+[4.999s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail
+[5.000s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__functions.h
+[5.000s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__struct.h
+[5.000s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__functions.c
+[5.000s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__type_support.h
+[5.000s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/spin.h
+[5.001s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg
+[5.001s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg/rosidl_generator_c__visibility_control.h
+[5.001s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/library_path.sh
+[5.001s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/library_path.dsv
+[5.001s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_generator_c.so
+[5.002s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv
+[5.002s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv
+[5.003s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail
+[5.003s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__rosidl_typesupport_fastrtps_c.h
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_typesupport_fastrtps_c.so
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__rosidl_typesupport_introspection_c.h
+[5.004s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__type_support.c
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_typesupport_introspection_c.so
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_typesupport_c.so
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail
+[5.005s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__traits.hpp
+[5.006s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__struct.hpp
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__builder.hpp
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/spin.hpp
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__rosidl_typesupport_fastrtps_cpp.hpp
+[5.007s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/dds_fastrtps
+[5.008s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg
+[5.008s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.008s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_typesupport_fastrtps_cpp.so
+[5.008s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv
+[5.008s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv
+[5.008s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail
+[5.017s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__type_support.cpp
+[5.017s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/include/services_quiz_srv/services_quiz_srv/srv/detail/spin__rosidl_typesupport_introspection_cpp.hpp
+[5.017s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_typesupport_introspection_cpp.so
+[5.017s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_typesupport_cpp.so
+[5.017s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/pythonpath.sh
+[5.018s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/pythonpath.dsv
+[5.018s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv-0.0.0-py3.10.egg-info
+[5.018s] -- Installing: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv-0.0.0-py3.10.egg-info/PKG-INFO
+[5.018s] -- Installing: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv-0.0.0-py3.10.egg-info/top_level.txt
+[5.018s] -- Installing: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv-0.0.0-py3.10.egg-info/SOURCES.txt
+[5.018s] -- Installing: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv-0.0.0-py3.10.egg-info/dependency_links.txt
+[5.018s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv
+[5.018s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/srv
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/srv/_spin.py
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/srv/__init__.py
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/srv/_spin_s.c
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/services_quiz_srv_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/__init__.py
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/services_quiz_srv_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/libservices_quiz_srv__rosidl_generator_py.so
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/_services_quiz_srv_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.019s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/_services_quiz_srv_s.ep.rosidl_typesupport_c.c
+[5.020s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/_services_quiz_srv_s.ep.rosidl_typesupport_introspection_c.c
+[5.020s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/services_quiz_srv_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.140s] Listing '/home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv'...
+[5.140s] Listing '/home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/srv'...
+[5.213s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/services_quiz_srv_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[5.215s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/services_quiz_srv_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[5.217s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/local/lib/python3.10/dist-packages/services_quiz_srv/services_quiz_srv_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[5.218s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/lib/libservices_quiz_srv__rosidl_generator_py.so
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/srv/Spin.idl
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/srv/Spin.srv
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/srv/Spin_Request.msg
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/srv/Spin_Response.msg
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/ament_index/resource_index/package_run_dependencies/services_quiz_srv
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/ament_index/resource_index/parent_prefix_path/services_quiz_srv
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/ament_prefix_path.sh
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/ament_prefix_path.dsv
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/path.sh
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/environment/path.dsv
+[5.219s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/local_setup.bash
+[5.220s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/local_setup.sh
+[5.220s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/local_setup.zsh
+[5.220s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/local_setup.dsv
+[5.220s] -- Installing: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/package.dsv
+[5.221s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/ament_index/resource_index/packages/services_quiz_srv
+[5.230s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_generator_cExport.cmake
+[5.230s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_generator_cExport-noconfig.cmake
+[5.231s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_typesupport_fastrtps_cExport.cmake
+[5.231s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[5.235s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_introspection_cExport.cmake
+[5.235s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.237s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_cExport.cmake
+[5.237s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_cExport-noconfig.cmake
+[5.239s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_generator_cppExport.cmake
+[5.241s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.241s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[5.243s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_introspection_cppExport.cmake
+[5.243s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.293s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_cppExport.cmake
+[5.293s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srv__rosidl_typesupport_cppExport-noconfig.cmake
+[5.295s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_generator_pyExport.cmake
+[5.295s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/export_services_quiz_srv__rosidl_generator_pyExport-noconfig.cmake
+[5.295s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/rosidl_cmake-extras.cmake
+[5.296s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.296s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/ament_cmake_export_libraries-extras.cmake
+[5.296s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/ament_cmake_export_targets-extras.cmake
+[5.296s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.296s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.298s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.298s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srvConfig.cmake
+[5.299s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/cmake/services_quiz_srvConfig-version.cmake
+[5.299s] -- Up-to-date: /home/user/ros2_ws/install/services_quiz_srv/share/services_quiz_srv/package.xml
+[5.305s] Invoked command in '/home/user/ros2_ws/build/services_quiz_srv' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/turtlebot3_teleop:/home/simulations/ros2_sims_ws/install/turtlebot3_example:/home/simulations/ros2_sims_ws/install/services_pkg:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/ros2_ws/build/services_quiz_srv
