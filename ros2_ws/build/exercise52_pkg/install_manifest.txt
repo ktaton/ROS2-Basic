@@ -1,0 +1,17 @@
+/home/user/ros2_ws/install/exercise52_pkg/lib/exercise52_pkg/exercise52_node
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg//launch/exercise52_launch_file.launch.py
+/home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/package_run_dependencies/exercise52_pkg
+/home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/parent_prefix_path/exercise52_pkg
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.sh
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/environment/path.dsv
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.bash
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.sh
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.zsh
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/local_setup.dsv
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.dsv
+/home/user/ros2_ws/install/exercise52_pkg/share/ament_index/resource_index/packages/exercise52_pkg
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig.cmake
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/cmake/exercise52_pkgConfig-version.cmake
+/home/user/ros2_ws/install/exercise52_pkg/share/exercise52_pkg/package.xml

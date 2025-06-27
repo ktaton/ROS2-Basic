@@ -1,0 +1,11 @@
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/uninstall.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/client_pkg_uninstall.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/service_client_node.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/service_client_v2.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/test.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/edit_cache.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/rebuild_cache.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/list_install_components.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/install.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/install/local.dir
+/home/user/ros2_ws/build/client_pkg/CMakeFiles/install/strip.dir

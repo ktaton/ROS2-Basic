@@ -1,0 +1,10 @@
+/home/user/ros2_ws/build/logs_test/CMakeFiles/uninstall.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/logs_test_uninstall.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/logger_example_node.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/test.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/edit_cache.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/rebuild_cache.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/list_install_components.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/install.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/install/local.dir
+/home/user/ros2_ws/build/logs_test/CMakeFiles/install/strip.dir

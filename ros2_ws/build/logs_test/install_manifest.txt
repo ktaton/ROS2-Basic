@@ -1,0 +1,16 @@
+/home/user/ros2_ws/install/logs_test/lib/logs_test/logger_example_node
+/home/user/ros2_ws/install/logs_test/share/ament_index/resource_index/package_run_dependencies/logs_test
+/home/user/ros2_ws/install/logs_test/share/ament_index/resource_index/parent_prefix_path/logs_test
+/home/user/ros2_ws/install/logs_test/share/logs_test/environment/ament_prefix_path.sh
+/home/user/ros2_ws/install/logs_test/share/logs_test/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/install/logs_test/share/logs_test/environment/path.sh
+/home/user/ros2_ws/install/logs_test/share/logs_test/environment/path.dsv
+/home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.bash
+/home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.sh
+/home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.zsh
+/home/user/ros2_ws/install/logs_test/share/logs_test/local_setup.dsv
+/home/user/ros2_ws/install/logs_test/share/logs_test/package.dsv
+/home/user/ros2_ws/install/logs_test/share/ament_index/resource_index/packages/logs_test
+/home/user/ros2_ws/install/logs_test/share/logs_test/cmake/logs_testConfig.cmake
+/home/user/ros2_ws/install/logs_test/share/logs_test/cmake/logs_testConfig-version.cmake
+/home/user/ros2_ws/install/logs_test/share/logs_test/package.xml

@@ -1,0 +1,4 @@
+source;share/actions_quiz/local_setup.bash
+source;share/actions_quiz/local_setup.dsv
+source;share/actions_quiz/local_setup.sh
+source;share/actions_quiz/local_setup.zsh

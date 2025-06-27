@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+b1c7540058817476076b9c28d3989b87 CMakeFiles/exercise52_pkg_uninstall
